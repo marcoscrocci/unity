@@ -1,0 +1,58 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: NVIDIA GeForce 9500 GT (ID=0x640)
+    Vendor:   NVIDIA
+    VRAM:     999 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Marcos\OneDrive\Projetos\Unity\AcePanic\Executavel\AcePanic_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Marcos\OneDrive\Projetos\Unity\AcePanic\Executavel\AcePanic_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Marcos\OneDrive\Projetos\Unity\AcePanic\Executavel\AcePanic_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Marcos\OneDrive\Projetos\Unity\AcePanic\Executavel\AcePanic_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Marcos\OneDrive\Projetos\Unity\AcePanic\Executavel\AcePanic_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Marcos\OneDrive\Projetos\Unity\AcePanic\Executavel\AcePanic_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Marcos\OneDrive\Projetos\Unity\AcePanic\Executavel\AcePanic_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Marcos\OneDrive\Projetos\Unity\AcePanic\Executavel\AcePanic_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.964 seconds
+Platform assembly: C:\Users\Marcos\OneDrive\Projetos\Unity\AcePanic\Executavel\AcePanic_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Marcos\OneDrive\Projetos\Unity\AcePanic\Executavel\AcePanic_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.242219 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.756460 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 251.
+Total: 0.280340 ms (FindLiveObjects: 0.046279 ms CreateObjectMapping: 0.014649 ms MarkObjects: 0.213418 ms  DeleteObjects: 0.004328 ms)
+
+Untagged
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.159649 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 218.
+Total: 0.291993 ms (FindLiveObjects: 0.044281 ms CreateObjectMapping: 0.011653 ms MarkObjects: 0.186782 ms  DeleteObjects: 0.046945 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.533378 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 251.
+Total: 0.269685 ms (FindLiveObjects: 0.046945 ms CreateObjectMapping: 0.011653 ms MarkObjects: 0.205427 ms  DeleteObjects: 0.003995 ms)
+
+Untagged
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.873982 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 218.
+Total: 0.291327 ms (FindLiveObjects: 0.046612 ms CreateObjectMapping: 0.011653 ms MarkObjects: 0.183785 ms  DeleteObjects: 0.047944 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 114 -> priority: 1 
