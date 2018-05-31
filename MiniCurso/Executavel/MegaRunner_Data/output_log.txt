@@ -1,0 +1,33 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 920M  (ID=0x1299)
+    Vendor:   NVIDIA
+    VRAM:     1997 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Marcos\Projetos\Unity\MiniCurso\Executavel\MegaRunner_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Marcos\Projetos\Unity\MiniCurso\Executavel\MegaRunner_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Marcos\Projetos\Unity\MiniCurso\Executavel\MegaRunner_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Marcos\Projetos\Unity\MiniCurso\Executavel\MegaRunner_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Marcos\Projetos\Unity\MiniCurso\Executavel\MegaRunner_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Marcos\Projetos\Unity\MiniCurso\Executavel\MegaRunner_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Marcos\Projetos\Unity\MiniCurso\Executavel\MegaRunner_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Marcos\Projetos\Unity\MiniCurso\Executavel\MegaRunner_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.220 seconds
+Platform assembly: E:\Marcos\Projetos\Unity\MiniCurso\Executavel\MegaRunner_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Marcos\Projetos\Unity\MiniCurso\Executavel\MegaRunner_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 0.638913 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.310048 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 225.
+Total: 0.231360 ms (FindLiveObjects: 0.018389 ms CreateObjectMapping: 0.010691 ms MarkObjects: 0.193726 ms  DeleteObjects: 0.008125 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 28a8 -> priority: 1 
